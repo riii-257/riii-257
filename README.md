@@ -1,6 +1,5 @@
 # Riya Sara Shibu
 
-Hi, my name is Riya
 
 ---
 [LinkedIn](https://www.linkedin.com/in/riya-shibu-7a0699237/) | [GitHub](https://github.com/riii-257) | [Email](riya.inmca2126@saintgits.org) 
