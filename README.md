@@ -27,7 +27,8 @@
 
 - Conquering Fashion MNIST with CNNs using computer vision
 - Student database management system
-- Tourism management website 
+- Tourism management website
+- 2D Platformer game
 
 
 ## Skills
