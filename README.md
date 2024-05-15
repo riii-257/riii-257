@@ -10,16 +10,17 @@
 ## Education
 
 
--*Saintgits College of Engineering* 
+*Integrated MCA*  
+*Saintgits College of Engineering*  
 *2021-2026*
 
--*Habitat School*
+-*Habitat School*  
 *2015-2021*
 
--*School of Knowledge*
-*2006-2015*
+-*School of Knowledge*   
+*2006-2015*   
 
--*Indian School of Ajman*
+-*Indian School of Ajman*   
 *2006*
 
 
